@@ -17,18 +17,18 @@
 
 ### Files Naming Convention : (Please follow the order)
 
-paper 1  : DMW_A1
+paper 1  : DMW_A1 :heavy_check_mark:
 
-paper 2  : DMW_A2
+~paper 2  : DMW_A2~
 
-paper 3  : DMW_A3
+paper 3  : DMW_A3 :heavy_check_mark:
 
-(5 cluster) paper 1  : DMW_A4
+(5 cluster) paper 1  : DMW_A4 
 
-(5 cluster) paper 2  : DMW_A5
+(5 cluster) paper 2  : DMW_A5 :heavy_check_mark:
 
-(5 cluster) paper 3  : DMW_A6
+(5 cluster) paper 3  : DMW_A6 :heavy_check_mark:
 
-(5 cluster) paper 4  : DMW_A7
+(5 cluster) paper 4  : DMW_A7 
 
-(5 cluster) paper 5  : DMW_A8
+(5 cluster) paper 5  : DMW_A8 
