@@ -9,9 +9,14 @@
 
 ### Assignment Index
 
-1) [Assignment 1](https://github.com/XXDIL/DMW/tree/main/A1)
-3) [Assignment 2](https://github.com/XXDIL/DMW/tree/main/DMW_A2)
-4) [Assignment 3](https://github.com/XXDIL/DMW/tree/main/DMW_A3)
+1) [Assignment 1](https://github.com/XXDIL/DMI/tree/main/DMW_A1)
+2) [Assignment 2](https://github.com/XXDIL/DMW/tree/main/DMW_A2)
+3) [Assignment 3](https://github.com/XXDIL/DMW/tree/main/DMW_A3)
+4) [Assignment 4](https://github.com/XXDIL/DMW/tree/main/DMW_A4)
+5) [Assignment 5](https://github.com/XXDIL/DMW/tree/main/DMW_A5)
+6) [Assignment 6](https://github.com/XXDIL/DMW/tree/main/DMW_A6)
+7) [Assignment 7](https://github.com/XXDIL/DMW/tree/main/DMW_A7)
+8) [Assignment 8](https://github.com/XXDIL/DMW/tree/main/DMW_A8)
 
 ------
 
