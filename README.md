@@ -36,4 +36,4 @@ paper 3  : DMW_A3 :heavy_check_mark:
 
 (5 cluster) paper 4  : DMW_A7 
 
-(5 cluster) paper 5  : DMW_A8 
+(5 cluster) paper 5  : DMW_A8 :heavy_check_mark:
