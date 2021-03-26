@@ -1,4 +1,4 @@
-# DMW - IIITA
+# Data Mining and Warehousing - IIITA
 
 ### Group Members:
 
@@ -20,7 +20,7 @@
 
 ------
 
-### Files Naming Convention : (Please follow the order)
+### Files Naming Convention :
 
 paper 1  : DMW_A1 :heavy_check_mark:
 
