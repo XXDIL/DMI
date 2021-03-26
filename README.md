@@ -2,10 +2,12 @@
 
 ### Group Members:
 
-1) Milan Ashvinbhai Bhuva (IIT2018176)
-2) Manav Agrawal Kamlesh (IIT2018178)
-3) Mohammed Aadil (IIT2018179)
-4) Ankit Rauniyar (IIT2018202)
+| S. no. | Name | Roll Number |
+| - | - | - |
+| 1 | Milan Ashvinbhai Bhuva | IIT2018176 |
+| 2 | Manav Agrawal Kamlesh | IIT2018178 |
+| 3 | Mohammed Aadil | IIT2018179 |
+| 4 | Ankit Rauniyar | IIT2018202 |
 
 ### Assignment Index
 
