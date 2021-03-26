@@ -4,10 +4,10 @@
 
 | S. no. | Name | Roll Number |
 | - | - | - |
-| 1 | [Milan Ashvinbhai Bhuva](github.com/mb557) | IIT2018176 |
-| 2 | [Manav Agrawal Kamlesh](github.com/mka2011) | IIT2018178 |
-| 3 | [Mohammed Aadil](github.com/xxdil) | IIT2018179 |
-| 4 | [Ankit Rauniyar](github.com/nkit) | IIT2018202 |
+| 1 | [Milan Ashvinbhai Bhuva](https://github.com/mb557) | IIT2018176 |
+| 2 | [Manav Agrawal Kamlesh](https://github.com/mka2011) | IIT2018178 |
+| 3 | [Mohammed Aadil](https://github.com/xxdil) | IIT2018179 |
+| 4 | [Ankit Rauniyar](https://github.com/nkit) | IIT2018202 |
 
 ### Assignment Index
 
