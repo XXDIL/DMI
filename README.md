@@ -28,7 +28,7 @@ paper 1  : DMW_A1 :heavy_check_mark:
 
 paper 3  : DMW_A3 :heavy_check_mark:
 
-(5 cluster) paper 1  : DMW_A4 
+(5 cluster) paper 1  : DMW_A4 :heavy_check_mark:
 
 (5 cluster) paper 2  : DMW_A5 :heavy_check_mark:
 
